@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JARVIS - Python Desktop Assistant
 
 JARVIS is a basic Python desktop assistant that accepts typed commands and gives voice responses.
@@ -35,3 +36,7 @@ JARVIS is a basic Python desktop assistant that accepts typed commands and gives
 
 ```bash
 pip install -r requirements.txt
+=======
+# jarvis-python-assistant
+A Python desktop assistant with typed commands and voice responses.
+>>>>>>> 02b68895329d0e276247b0ab4255df8e3f300718
